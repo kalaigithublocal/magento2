@@ -11,4 +11,13 @@
             "Shiptest\\Localtest\\": ""
         }
     }
+	"repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/kalaigithublocal/magento2"
+        }
+    ],
+    "require": {
+        "shiptest/module-localtest": "1.0.0"
+    }
 }
