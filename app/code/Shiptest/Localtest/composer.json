@@ -10,14 +10,14 @@
         "psr-4": {
             "Shiptest\\Localtest\\": ""
         }
-    }
-	"repositories": [
+    },
+    "repositories": [
         {
             "type": "vcs",
             "url": "https://github.com/kalaigithublocal/magento2"
         }
     ],
     "require": {
-        "shiptest/module-localtest": "1.0.0"
+        "kalaigithublocal/magento2": "1.0.0"
     }
 }
