@@ -17,7 +17,8 @@
             "url": "https://github.com/kalaigithublocal/magento2"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
-        "kalaigithublocal/magento2": "1.0.0"
+        "kalaigithublocal/magento2": "*"
     }
 }
